@@ -274,8 +274,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
         "price": "Уточняйте"
       },
@@ -420,8 +420,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
         "price": "Уточняйте"
       },
@@ -560,8 +560,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
         "price": "Уточняйте"
       },
@@ -700,8 +700,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_35",
         "price": "Уточняйте"
       },
@@ -840,8 +840,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
         "price": "Уточняйте"
       },
@@ -980,8 +980,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
         "price": "Уточняйте"
       },
@@ -1126,10 +1126,10 @@
         "price": "230 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "490 BYN"
+        "price": "от 490 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -1272,10 +1272,10 @@
         "price": "210 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "490 BYN"
+        "price": "от 490 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -1418,10 +1418,10 @@
         "price": "210 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "490 BYN"
+        "price": "от 490 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -1558,10 +1558,10 @@
         "price": "230 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "490 BYN"
+        "price": "от 490 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -1704,10 +1704,10 @@
         "price": "210 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -1856,10 +1856,10 @@
         "price": "220 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2008,10 +2008,10 @@
         "price": "230 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2154,10 +2154,10 @@
         "price": "180 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2300,10 +2300,10 @@
         "price": "180 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2446,10 +2446,10 @@
         "price": "200 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2580,10 +2580,10 @@
         "price": "180 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2732,10 +2732,10 @@
         "price": "180 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "430 BYN"
+        "price": "от 430 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -2884,10 +2884,10 @@
         "price": "160 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -3030,10 +3030,10 @@
         "price": "160 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -3182,10 +3182,10 @@
         "price": "150 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -3334,10 +3334,10 @@
         "price": "150 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_19",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -3474,8 +3474,8 @@
         "price": "130 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
         "price": "от 330 BYN"
       },
@@ -3614,10 +3614,10 @@
         "price": "110 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -3754,10 +3754,10 @@
         "price": "120 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -3894,10 +3894,10 @@
         "price": "120 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -4016,10 +4016,10 @@
         "price": "70 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "210 BYN"
+        "price": "от 210 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -4156,10 +4156,10 @@
         "price": "110 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "320 BYN"
+        "price": "от 320 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -4302,10 +4302,10 @@
         "price": "130 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "320 BYN"
+        "price": "от 320 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -4436,8 +4436,8 @@
         "price": "110 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_122",
         "price": "от 300 BYN"
       },
@@ -4582,10 +4582,10 @@
         "price": "90 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "240 BYN"
+        "price": "от 240 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -4728,10 +4728,10 @@
         "price": "90 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "260 BYN"
+        "price": "от 260 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -4874,10 +4874,10 @@
         "price": "70 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5014,10 +5014,10 @@
         "price": "70 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "170 BYN"
+        "price": "от 170 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5136,10 +5136,10 @@
         "price": "75 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5264,10 +5264,10 @@
         "price": "75 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5392,10 +5392,10 @@
         "price": "70 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5520,10 +5520,10 @@
         "price": "70 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5642,10 +5642,10 @@
         "price": "40 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_141",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5758,10 +5758,10 @@
         "price": "40 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_141",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5880,10 +5880,10 @@
         "price": "40 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_102",
-        "price": "145 BYN"
+        "price": "от 145 BYN"
       },
       {
         "name": "Не работает WiFi",
@@ -5984,8 +5984,8 @@
         "price": "40 BYN"
       },
       {
-        "name": "Компонентный ремонт",
-        "slug": "komponentnyi-remont",
+        "name": "Замена или увеличение флеш памяти",
+        "slug": "zamena-ili-uvelichenie-flesh-pamyati",
         "desc_ref": "desc_155",
         "price": "от 145 BYN"
       },
