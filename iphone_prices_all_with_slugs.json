@@ -7,7 +7,7 @@
     "desc_5": "заводской оригинал",
     "desc_6": "оригинальная матрица, заменено стекло",
     "desc_7": "без уведомления о замене, заводской оригинал",
-    "desc_8": "Замена стекла дисплея *при условии если дисплей работает без нареканий",
+    "desc_8": "*при условии если дисплей работает без нареканий",
     "desc_9": "",
     "desc_10": "аналог 1 к 1",
     "desc_11": "Замена корпуса заводская оригинальная запчасть",
@@ -15,7 +15,7 @@
     "desc_13": "",
     "desc_14": "Замена основной камеры",
     "desc_15": "производится детальная диагностика материнской платы, и выявление причины неисправности",
-    "desc_16": "Замена шлейфа зарядки меняется шлейф в сборе, с разьемом зарядки и микрофоном",
+    "desc_16": "меняется шлейф в сборе, с разьемом зарядки и микрофоном",
     "desc_17": "неисправность часто вызвана не качественным зарядным устройством в течении рабочего дня",
     "desc_18": "Замена шлейфа кнопки включения",
     "desc_19": "Замена либо увеличение флеш памяти в течении рабочего дня",
@@ -33,10 +33,10 @@
     "desc_31": "заводской оригинальный дисплей",
     "desc_32": "Замена аккумулятора (оригинальная, емкость 3988/4252 mAh) Заводской оригинал",
     "desc_33": "Заводской Сервисный оригинал",
-    "desc_34": "Замена стекла дисплея Copy *при условии если дисплей работает без нареканий",
+    "desc_34": "Copy *при условии если дисплей работает без нареканий",
     "desc_35": "Замена либо увеличение флеш памяти Copy в течении рабочего дня",
     "desc_36": "Замена аккумулятора (оригинальная емкость 3692 mAh) Отоборажается состояние в нстройках",
-    "desc_37": "Замена шлейфа зарядки Copy меняется шлейф в сборе, с разьемом зарядки и микрофоном",
+    "desc_37": "Copy меняется шлейф в сборе, с разьемом зарядки и микрофоном",
     "desc_38": "Замена аккумулятора (оригинальная, емкость 4685 mAh) Заводской оригинал",
     "desc_39": "Сервисный оригинал, полноценно привязывается и отображается как подлинная деталь Apple с датой установки",
     "desc_40": "Замена аккумулятора iPhone 16 Pro (оригинальная, ёмкость 3582 mAh) Заводской оригинал",
@@ -73,7 +73,7 @@
     "desc_71": "снятый оригинал, гарантия",
     "desc_72": "стекло меняется отдельно, при условии сохраненной геометрии корпуса в течении рабочего дня",
     "desc_73": "Замена корпуса премиум качество",
-    "desc_74": "Замена шлейфа зарядки меняется шлейф в сборе, с разьемом зарядки и микрофоном",
+    "desc_74": "меняется шлейф в сборе, с разьемом зарядки и микрофоном",
     "desc_75": "Ремонт Face id частая проблема, вызвана с проблемой работоспособности dot projector в течении рабочего дня от150 Ремонт-восстановление комплектующих Face id иногда возникает проблема с датчиком приближения из-за попадания влаги, он так же причастен к работоспособности Face id",
     "desc_76": "Замена аккумулятора iPhone 14 Plus (оригинальный контроллер, емкость 4325 mAh) оригинальная емкость Гарантия 4 месяцев",
     "desc_77": "1к1,",
@@ -95,7 +95,7 @@
     "desc_93": "Замена аккумулятора, усиленный, БЕЗ ОШИБКИ, с привязкой 4000 mAh)",
     "desc_94": "Замена дисплея (аналог OLED) ограниченная гарантия, чувствительность сенсора ниже чем у оригинала",
     "desc_95": "оригинальная матрица, заменено стекло",
-    "desc_96": "Замена стекла дисплея *при условии если дисплей работает без нареканий",
+    "desc_96": "*при условии если дисплей работает без нареканий",
     "desc_97": "стекло меняется отдельно, при условии сохраненной геометрии корпуса",
     "desc_98": "Замена корпуса",
     "desc_99": "производится детальная диагностика материнской платы, и выявление причины неисправности",
@@ -120,7 +120,7 @@
     "desc_118": "при этой неисправности не активна кнопка громкой связи и не работает диктофон",
     "desc_119": "Замена аккумулятора (Усиленный) (увеличенная емкость 3500 mAh)",
     "desc_120": "Оригинальная матрица и сенсор, была произведена замена стекла",
-    "desc_121": "Замена шлейфа зарядки меняется шлейф в сборе, с разъемом зарядки и микрофоном",
+    "desc_121": "меняется шлейф в сборе, с разъемом зарядки и микрофоном",
     "desc_122": "Замена либо увеличение флеш памяти",
     "desc_123": "Замена аккумулятора (Усиленный) (увеличенная емкость 3020mAh)",
     "desc_124": "Замена корпуса целиком",
@@ -139,7 +139,7 @@
     "desc_137": "увеличенная емкость 2300 mAh",
     "desc_138": "Замена аккумулятора (аналог)",
     "desc_139": "увеличенная емкость АКБ",
-    "desc_140": "Замена шлейфа зарядки меняется шлейф в сборе, с разьемом наушников, и микрофоном",
+    "desc_140": "меняется шлейф в сборе, с разьемом наушников, и микрофоном",
     "desc_141": "Замена либо увеличение флеш памяти",
     "desc_142": "Замена аккумулятора (Увеличенная емкость)",
     "desc_143": "Замена аккумулятора (аналог)",
@@ -202,8 +202,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "Уточняйте"
       },
@@ -250,8 +250,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
         "price": "Уточняйте"
       },
@@ -342,8 +342,8 @@
         "price": "1650 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "Уточняйте"
       },
@@ -396,8 +396,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
         "price": "Уточняйте"
       },
@@ -482,8 +482,8 @@
         "price": "1790 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "900 BYN"
       },
@@ -536,8 +536,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
         "price": "Уточняйте"
       },
@@ -622,8 +622,8 @@
         "price": "1550 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_34",
         "price": "800 BYN"
       },
@@ -676,10 +676,10 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "420 BYN"
+        "price": "от 420 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -762,8 +762,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "700 BYN"
       },
@@ -816,10 +816,10 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "390 BYN"
+        "price": "от 390 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -908,8 +908,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "Уточняйте"
       },
@@ -956,8 +956,8 @@
         "price": "Уточняйте"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_37",
         "price": "Уточняйте"
       },
@@ -1048,8 +1048,8 @@
         "price": "1590 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "600 BYN"
       },
@@ -1102,10 +1102,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "370 BYN"
+        "price": "от 370 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -1194,8 +1194,8 @@
         "price": "1390 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "550 BYN"
       },
@@ -1248,10 +1248,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -1340,8 +1340,8 @@
         "price": "1540 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "590 BYN"
       },
@@ -1394,10 +1394,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "330 BYN"
+        "price": "от 330 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -1486,8 +1486,8 @@
         "price": "1090 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "390 BYN"
       },
@@ -1534,10 +1534,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "310 BYN"
+        "price": "от 310 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -1626,8 +1626,8 @@
         "price": "1430 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "390 BYN"
       },
@@ -1680,10 +1680,10 @@
         "price": "от 230 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "315 BYN"
+        "price": "от 315 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -1778,8 +1778,8 @@
         "price": "1240 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "370 BYN"
       },
@@ -1832,10 +1832,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "300 BYN"
+        "price": "от 300 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -1930,8 +1930,8 @@
         "price": "1200 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "380 BYN"
       },
@@ -1984,10 +1984,10 @@
         "price": "от 155 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "240 BYN"
+        "price": "от 240 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2082,8 +2082,8 @@
         "price": "940 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "350 BYN"
       },
@@ -2130,10 +2130,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "230 BYN"
+        "price": "от 230 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2228,8 +2228,8 @@
         "price": "1190 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "340 BYN"
       },
@@ -2276,10 +2276,10 @@
         "price": "от 160 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "230 BYN"
+        "price": "от 230 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2374,8 +2374,8 @@
         "price": "990 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "300 BYN"
       },
@@ -2422,10 +2422,10 @@
         "price": "от 180 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "230 BYN"
+        "price": "от 230 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2508,8 +2508,8 @@
         "price": "680 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "310 BYN"
       },
@@ -2556,10 +2556,10 @@
         "price": "от 155 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "230 BYN"
+        "price": "от 230 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2654,8 +2654,8 @@
         "price": "620 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "270 BYN"
       },
@@ -2708,10 +2708,10 @@
         "price": "от 120 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "190 BYN"
+        "price": "от 190 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2806,8 +2806,8 @@
         "price": "1120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "270 BYN"
       },
@@ -2860,10 +2860,10 @@
         "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -2952,8 +2952,8 @@
         "price": "780 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "250 BYN"
       },
@@ -3006,10 +3006,10 @@
         "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "210 BYN"
+        "price": "от 210 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3104,8 +3104,8 @@
         "price": "470 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "200 BYN"
       },
@@ -3158,10 +3158,10 @@
         "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3256,8 +3256,8 @@
         "price": "510 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_8",
         "price": "200 BYN"
       },
@@ -3310,10 +3310,10 @@
         "price": "от 65 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_16",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3396,8 +3396,8 @@
         "price": "460 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "200 BYN"
       },
@@ -3450,10 +3450,10 @@
         "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3536,8 +3536,8 @@
         "price": "320 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "170 BYN"
       },
@@ -3587,13 +3587,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "100 BYN"
+        "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "130 BYN"
+        "price": "от 130 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3623,13 +3623,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -3676,8 +3676,8 @@
         "price": "310 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "170 BYN"
       },
@@ -3727,13 +3727,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "100 BYN"
+        "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "130 BYN"
+        "price": "от 130 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3763,13 +3763,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -3816,8 +3816,8 @@
         "price": "400 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "220 BYN"
       },
@@ -3867,13 +3867,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "100 BYN"
+        "price": "от 100 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -3903,13 +3903,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -3944,8 +3944,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "60 BYN"
       },
@@ -3989,13 +3989,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "50 BYN"
+        "price": "от 50 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "100 BYN"
+        "price": "от 100 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4025,13 +4025,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4078,8 +4078,8 @@
         "price": "270 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "170 BYN"
       },
@@ -4129,13 +4129,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "90 BYN"
+        "price": "от 90 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "130 BYN"
+        "price": "от 130 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4165,13 +4165,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "180 BYN"
+        "price": "от 180 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4218,8 +4218,8 @@
         "price": "340 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "220 BYN"
       },
@@ -4275,13 +4275,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "90 BYN"
+        "price": "от 90 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4311,13 +4311,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "180 BYN"
+        "price": "от 180 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4364,8 +4364,8 @@
         "price": "210 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "140 BYN"
       },
@@ -4415,13 +4415,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "75 BYN"
+        "price": "от 75 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_121",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4445,13 +4445,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "150 BYN"
+        "price": "от 150 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4498,8 +4498,8 @@
         "price": "250 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "140 BYN"
       },
@@ -4555,13 +4555,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "80 BYN"
+        "price": "от 80 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "90 BYN"
+        "price": "от 90 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4591,13 +4591,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "180 BYN"
+        "price": "от 180 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4644,8 +4644,8 @@
         "price": "320 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "170 BYN"
       },
@@ -4701,13 +4701,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "80 BYN"
+        "price": "от 80 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "90 BYN"
+        "price": "от 90 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4737,13 +4737,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "170 BYN"
+        "price": "от 170 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4796,8 +4796,8 @@
         "price": "250 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "50 BYN"
       },
@@ -4847,13 +4847,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "80 BYN"
+        "price": "от 80 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "85 BYN"
+        "price": "от 85 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -4883,13 +4883,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "200 BYN"
+        "price": "от 200 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -4936,8 +4936,8 @@
         "price": "250 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_96",
         "price": "140 BYN"
       },
@@ -4987,13 +4987,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "80 BYN"
+        "price": "от 80 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "85 BYN"
+        "price": "от 85 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5023,13 +5023,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_103",
-        "price": "120 BYN"
+        "price": "от 120 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "140 BYN"
+        "price": "от 140 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5064,8 +5064,8 @@
         "price": "175 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "55 BYN"
       },
@@ -5109,13 +5109,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "75 BYN"
+        "price": "от 75 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5145,13 +5145,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "95 BYN"
+        "price": "от 95 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5192,8 +5192,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "55 BYN"
       },
@@ -5237,13 +5237,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "75 BYN"
+        "price": "от 75 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5273,13 +5273,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "95 BYN"
+        "price": "от 95 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5320,8 +5320,8 @@
         "price": "165 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "40 BYN"
       },
@@ -5365,13 +5365,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "70 BYN"
+        "price": "от 70 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5401,13 +5401,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "95 BYN"
+        "price": "от 95 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5448,8 +5448,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "40 BYN"
       },
@@ -5493,13 +5493,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_74",
-        "price": "70 BYN"
+        "price": "от 70 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5529,13 +5529,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "95 BYN"
+        "price": "от 95 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5576,8 +5576,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "40 BYN"
       },
@@ -5615,13 +5615,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_140",
-        "price": "55 BYN"
+        "price": "от 55 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5651,13 +5651,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "130 BYN"
+        "price": "от 130 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "75 BYN"
+        "price": "от 75 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5692,8 +5692,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "40 BYN"
       },
@@ -5731,13 +5731,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_140",
-        "price": "55 BYN"
+        "price": "от 55 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5767,13 +5767,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_104",
-        "price": "95 BYN"
+        "price": "от 95 BYN"
       },
       {
         "name": "Перепайка процессора",
@@ -5814,8 +5814,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_111",
         "price": "40 BYN"
       },
@@ -5853,13 +5853,13 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_99",
-        "price": "40 BYN"
+        "price": "от 40 BYN"
       },
       {
-        "name": "Не заряжается",
-        "slug": "ne-zaryazhaetsya",
+        "name": "Замена шлейфа зарядки",
+        "slug": "zamena-shleifa-zaryadki",
         "desc_ref": "desc_140",
-        "price": "55 BYN"
+        "price": "от 55 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5889,7 +5889,7 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_115",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       }
     ],
     "6": [
@@ -5924,8 +5924,8 @@
         "price": "120 BYN"
       },
       {
-        "name": "Замена стекл",
-        "slug": "zamena-stekl",
+        "name": "Замена стекла дисплея",
+        "slug": "zamena-stekla-displeya",
         "desc_ref": "desc_146",
         "price": "40 BYN"
       },
@@ -5963,7 +5963,7 @@
         "name": "Восстановление цепи питания",
         "slug": "vosstanovlenie-cepi-pitaniya",
         "desc_ref": "desc_152",
-        "price": "55 BYN"
+        "price": "от 55 BYN"
       },
       {
         "name": "Замена контроллера заряда",
@@ -5993,13 +5993,13 @@
         "name": "Не работает WiFi",
         "slug": "ne-rabotaet-wifi",
         "desc_ref": "desc_20",
-        "price": "125 BYN"
+        "price": "от 125 BYN"
       },
       {
         "name": "Нет сети",
         "slug": "net-seti",
         "desc_ref": "desc_156",
-        "price": "95 BYN"
+        "price": "от 95 BYN"
       },
       {
         "name": "Перепайка процессора",
